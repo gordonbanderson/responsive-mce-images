@@ -1,7 +1,7 @@
 {
-	"name": "weboftalent/facebook-like",
-	"description": "Facebook likebox page",
-	"keywords": ["silverstripe", "facebook","likebox","weboftalent"],
+	"name": "weboftalent/responsive-mce-images",
+	"description": "Render images added to TinyMCE in a responsive manner",
+	"keywords": ["silverstripe", "TinyMCE", "responsive", "images","weboftalent"],
 	"type": "silverstripe-module",
 	"authors": [
 	{

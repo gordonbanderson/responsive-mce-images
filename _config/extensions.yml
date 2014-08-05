@@ -1,0 +1,12 @@
+---
+Name: tinymce-image-fix-extensions
+---
+HtmlEditorField:
+  extensions:
+    ['HtmlEditorField_Extension']
+HtmlEditorField_Toolbar:
+  extensions:
+    ['HtmlEditorField_ImageToolbarExtension']
+Page_Controller:
+  extensions:
+    ['RemoveImageSourceAttribute']

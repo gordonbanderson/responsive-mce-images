@@ -1,0 +1,16 @@
+{
+	"name": "weboftalent/facebook-like",
+	"description": "Facebook likebox page",
+	"keywords": ["silverstripe", "facebook","likebox","weboftalent"],
+	"type": "silverstripe-module",
+	"authors": [
+	{
+		"name": "Gordon Anderson",
+		"email": "gordon@weboftalent.asia"
+	}
+	],
+	"require":
+	{
+		"silverstripe/framework": "3.1.*"
+	}
+}

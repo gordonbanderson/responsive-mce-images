@@ -1,2 +1,1 @@
-<p>**** IMAGE FROM TEMPLATE ****</p>
 <img class="shadowbox" data-interchange="[$SetWidth(720).URL, (default)],[$SetWidth(720).URL, (medium)],[$SetWidth(720).URL, (large)], [$SetWidth(640).URL, (small)]"

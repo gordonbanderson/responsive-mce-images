@@ -1,16 +1,22 @@
 {
-	"name": "weboftalent/responsive-mce-images",
-	"description": "Render images added to TinyMCE in a responsive manner",
-	"keywords": ["silverstripe", "TinyMCE", "responsive", "images","weboftalent"],
-	"type": "silverstripe-module",
-	"authors": [
-	{
-		"name": "Gordon Anderson",
-		"email": "gordon@weboftalent.asia"
-	}
-	],
-	"require":
-	{
-		"silverstripe/framework": "3.1.*"
-	}
+  "name": "weboftalent/responsive-mce-images",
+  "description": "Render images added to TinyMCE in a responsive manner",
+  "keywords": [
+    "silverstripe",
+    "TinyMCE",
+    "responsive",
+    "images",
+    "weboftalent"
+  ],
+  "type": "silverstripe-module",
+  "authors": [
+    {
+      "name": "Gordon Anderson",
+      "email": "gordon@weboftalent.asia"
+    }
+  ],
+  "require": {
+    "silverstripe/framework": "3.1.*"
+  },
+  "license": "BSD-3-Clause"
 }

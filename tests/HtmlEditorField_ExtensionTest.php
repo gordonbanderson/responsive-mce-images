@@ -1,8 +1,9 @@
 <?php
 
-class HtmlEditorField_ExtensionTest extends SapphireTest {
-	public function testProcessImage() {
-		$this->markTestSkipped('TODO');
-	}
-
+class HtmlEditorField_ExtensionTest extends SapphireTest
+{
+    public function testProcessImage()
+    {
+        $this->markTestSkipped('TODO');
+    }
 }
